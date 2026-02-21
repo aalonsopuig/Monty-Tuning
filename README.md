@@ -46,3 +46,4 @@ The programming has been made in assembler. The code is widely commented for the
 <br />
 At the beginning of the program it is indicated to what I/O ports &nbsp;the sensors/actuators are connected.<br />
 <br />
+<img width="819" height="614" alt="image" src="https://github.com/user-attachments/assets/0e560cb2-d20c-4f0b-ae4f-3ef77f29620e" />
